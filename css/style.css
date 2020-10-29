@@ -484,7 +484,6 @@ a {
 
 .overlay{
   position: absolute;
-  top 5px;
 bottom:68px;
 background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5); /* Black see-through */
@@ -495,7 +494,7 @@ background: rgb(0, 0, 0);
 width:93%;
   font-size: 20px;
   
-height:350px;
+height:360px;
   text-align: center;
 }
 
